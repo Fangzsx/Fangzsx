@@ -14,7 +14,7 @@
 
 [![Gmail](https://img.shields.io/badge/GMAIL-Jay%20Garzon-red.svg?&style=for-the-badge&logo=gmail)](jygrzn@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jay-garzon-b38b2422a)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jay-garzon-b38b2422a)
 
 
 
