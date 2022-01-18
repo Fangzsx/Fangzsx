@@ -6,7 +6,9 @@
 - 👯 I’m looking to collaborate with anything related to Android.
 - 🥅 2022 Goals: Look for a stable job in App Development Industry.
 - ⚡ Fun fact: I love to play guitar and currently learning to play bass guitar.
-
-![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)
+- 
+### Connect with me:
+![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook) (https://www.facebook.com/jygrzn)
+![Gmail](https://https://img.shields.io/badge/GMAIL-Jay%20Garzon-red.svg?&style=for-the-badge&logo=gmail) (jygrzn@gmail.com)
 
 ![Fangzsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzsx&count_private=true&text_color=fff&bg_color=000,090909,131313&title_color=fff&show_icons=true&icon_color=fff)
