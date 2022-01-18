@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate with anything related to Android.
 - 🥅 2022 Goals: Look for a stable job in App Development Industry.
 - ⚡ Fun fact: I love to play guitar and currently learning to play bass guitar.
-- 
+
+
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/jygrzn)
 
