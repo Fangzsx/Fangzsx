@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play guitar and currently learning to play bass guitar.
 - 
 ### Connect with me:
-![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)(https://www.facebook.com/jygrzn)
+[![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/jygrzn)
 
 ![Gmail](https://img.shields.io/badge/GMAIL-Jay%20Garzon-red.svg?&style=for-the-badge&logo=gmail)(jygrzn@gmail.com)
 [![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) 
