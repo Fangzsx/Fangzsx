@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love to play guitar and currently learning to play bass guitar.
 - 
 ### Connect with me:
-[![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)(https://www.facebook.com/jygrzn)
+![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)(https://www.facebook.com/jygrzn)
 
-[![Gmail](https://img.shields.io/badge/GMAIL-Jay%20Garzon-red.svg?&style=for-the-badge&logo=gmail)(jygrzn@gmail.com)
+![Gmail](https://img.shields.io/badge/GMAIL-Jay%20Garzon-red.svg?&style=for-the-badge&logo=gmail)(jygrzn@gmail.com)
 
 ![Fangzsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzsx&count_private=true&text_color=fff&bg_color=000,090909,131313&title_color=fff&show_icons=true&icon_color=fff)
