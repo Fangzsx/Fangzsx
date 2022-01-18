@@ -9,8 +9,8 @@
 - 
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/jygrzn)
+[![Gmail](https://img.shields.io/badge/GMAIL-Jay%20Garzon-red.svg?&style=for-the-badge&logo=gmail)](jygrzn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jay-garzon-b38b2422a)
 
-![Gmail](https://img.shields.io/badge/GMAIL-Jay%20Garzon-red.svg?&style=for-the-badge&logo=gmail)(jygrzn@gmail.com)
-[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) 
 
 ![Fangzsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzsx&count_private=true&text_color=fff&bg_color=000,090909,131313&title_color=fff&show_icons=true&icon_color=fff)
