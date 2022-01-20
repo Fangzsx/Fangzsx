@@ -9,7 +9,7 @@
 
 ![Fangzsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzsx&count_private=true&text_color=fff&bg_color=000,090909,131313&title_color=fff&show_icons=true&icon_color=fff)
 
-[![Fangzsx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fangzsx)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fangzsx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fangzsx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/jygrzn)
