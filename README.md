@@ -11,6 +11,8 @@
 
 [![Fangzsx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fangzsx&theme=react-dark&custom_title=Fangzsx's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/facebook-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/jygrzn)
 
