@@ -1,4 +1,4 @@
-# Hi there, I'm Jay Gilbert Garzon👋 
+# Kamusta, I'm Jay Gilbert Garzon👋 
 
 ## I'm a 3rd year BSCS Student.
 - 🔭 I am looking for an OJT
