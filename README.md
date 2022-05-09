@@ -13,6 +13,8 @@ src="https://github.com/Fangzsx/Fangzsx/blob/main/skype.png?raw=true" width="200
 
 <img src="https://github.com/Fangzsx/Fangzsx/blob/main/projects.png?raw=true" width="1000">
 
+[![LinkedIn](https://github.com/Fangzsx/Fangzsx/blob/main/linkedin.png?raw=true")](https://www.linkedin.com/in/jay-gilbert-garzon/)
+
 
 
 
