@@ -1,3 +1,5 @@
+
+
 # Kamusta, I'm Jay Gilbert Garzon👋 
 
 ## I'm a 3rd year BSCS Student.
@@ -8,7 +10,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fangzsx)](https://git.io/streak-stats)
 
-### Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Jay%20Garzon-blue.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jay-gilbert-garzon/)
 
 [![Skype](https://img.shields.io/badge/SKYPE-Jay%20Gilbert%20Garzon-blue.svg?&style=for-the-badge&logo=skype)](https://join.skype.com/invite/u8RzfjabQoD4)
