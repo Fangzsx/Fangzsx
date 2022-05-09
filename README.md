@@ -1,11 +1,5 @@
 
-
-# Kamusta, I'm Jay Gilbert Garzon👋 
-
-## I'm a 3rd year BSCS Student.
-- 🔭 I am looking for an OJT
-- 🌱 I’m currently learning everything about Android Development using Kotlin.
-- 👯 I’m looking to collaborate with anything related to Android.
+<img src="https://github.com/Fangzsx/Fangzsx/blob/main/cover_photo.png?raw=true" width="1000">
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fangzsx)](https://git.io/streak-stats)
