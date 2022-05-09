@@ -1,6 +1,8 @@
 
 <img src="https://github.com/Fangzsx/Fangzsx/blob/main/greetings.png?raw=true" width="1000">
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fangzsx&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&background=222020)](https://git.io/streak-stats)
+
 <img src="https://github.com/Fangzsx/Fangzsx/blob/main/mytools.png?raw=true" width="1000">
 
 <img src="https://github.com/Fangzsx/Fangzsx/blob/main/contactme.png?raw=true" width="1000">
